@@ -1,0 +1,2 @@
+Hello, I am Khalil Ahmad
+This is day 01 of git practice
